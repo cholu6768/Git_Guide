@@ -243,6 +243,9 @@ git branch -d BRANCH NAME
 ```
 
 ## To merge a branch to the main branch 
+
+Once the branch is merged make sure to delete the branch afterwards.
+
 ```
 git merge BRANCH NAME
 ```
