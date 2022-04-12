@@ -30,7 +30,7 @@ Not in the current directory.
 
 ## Working Tree 
 
-The area outside of the git directory is
+The area outside of the git directory.
 
 it is like a work bench where you perform all the modifications you want to your file.
 
