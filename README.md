@@ -67,7 +67,7 @@ git commit -m "YOUR MESSAGE"
 
 ## To unset and set and editor for git commit messages 
 
-To unset the editor
+To unset the editor.
 ```
 git config --global --unset-all core.editor
 ```
